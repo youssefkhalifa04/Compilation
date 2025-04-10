@@ -1,0 +1,3 @@
+Hello Dear ...,
+Welcome to the flex & bison course!!
+This text will be used to test your lexical parser

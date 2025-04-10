@@ -1,0 +1,5 @@
+i++, i*i,
+// +aa +ii**-
+FFFF FFF abababababababab ayy hey wasp
+-15.666
+9.33

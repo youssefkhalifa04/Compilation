@@ -1,0 +1,7 @@
+nombre trouve : 12
+nombre trouve : 45
+nombre trouve : 78
+nombre trouve : 5
+nombre trouve : 100
+le nombre totale est : 5
+somme :240

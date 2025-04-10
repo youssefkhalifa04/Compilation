@@ -1,0 +1,7 @@
+program Test;
+var x, y, somme: integer;
+begin
+    x := 10;
+    y := 20;
+    somme := x + y;
+end.

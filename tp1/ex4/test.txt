@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+// Déclaration de variables float
+float a = 5.5;
+float b = 10.2;
+
+/* Fonction qui additionne deux nombres float */
+float addition(float x, float y) {
+    return x + y;
+}
+
+int main() {
+    printf("Valeur de a: %f\n", a);
+    printf("Valeur de b: %f\n", b);
+    
+    float resultat = addition(a, b);
+    printf("Résultat: %f\n", resultat);
+
+    // "float" dans une chaîne de caractères (ne doit pas être remplacé)
+    printf("Ceci est une chaîne contenant float\n");
+
+    return 0;
+}

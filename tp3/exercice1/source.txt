@@ -1,0 +1,2 @@
+Bonjour , voici quelques nombres : 12, 45 et 78.
+Une autre ligne avec 5 et 100.
