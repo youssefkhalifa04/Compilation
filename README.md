@@ -1,6 +1,4 @@
-Parfait ! Voici une version d’un **`README.md`** adaptée à GitHub, qui explique la **technique de compilation**, **l’analyse lexicale manuelle**, **Lex/Flex**, et **Bison**, de façon claire et concise 👇
 
----
 
 # 🧠 Compilation et Analyse Lexicale
 
